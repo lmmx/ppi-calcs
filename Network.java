@@ -28,7 +28,7 @@ public class Network
         {
         	// n1.getName()
 //  		String filename = "test.txt";
-    	    String filename = "PPInetwork.txt";
+/*   	    String filename = "PPInetwork.txt";
 	        System.out.print("Reading file: ");
 	        System.out.println(filename);
 	        try
@@ -40,7 +40,7 @@ public class Network
 	            e.printStackTrace();
 	        }
 	       // this.printMessage();
-	        
+*/	        
 /*    		System.out.println("\n\n");
 	    	for (Node each_node : nodes) {
 		    		System.out.print("Node: ");

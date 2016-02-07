@@ -12,7 +12,7 @@ public class Main {
         try
         {
         	Network network = new Network();
-        	network.run();
+		network.run();
         	GUI gui = new GUI(network);
         	gui.refreshLabel();
         	gui.refreshTable();
